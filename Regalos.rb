@@ -69,7 +69,24 @@
       { :type => :pokemon, :species => :EEVEE, :level => 10, :shiny => false }
     ]
   },
+{
+  :codes => [
+    "YITG-UN1C-0REG-AL01"
+  ],
 
+  :enabled => true,
+
+  :start_date => nil,
+  :end_date => nil,
+
+  :name => "Regalo exclusivo",
+
+  :type => :item,
+  :item => :SHINYBAIT,
+  :quantity => 1,
+
+  :description => "Regalo exclusivo de un solo uso."
+},
   #--------------------------------------------------------------------------
   # EJEMPLO 4: tu Pack de Bienvenida
   #--------------------------------------------------------------------------
