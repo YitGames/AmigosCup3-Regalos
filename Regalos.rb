@@ -69,12 +69,16 @@
       { :type => :pokemon, :species => :EEVEE, :level => 10, :shiny => false }
     ]
   },
+    #--------------------------------------------------------------------------
+  # EJEMPLO 3.5: regalo canjeable 1 vez
+  # :enabled => false para desactivar, true para activar
+  #--------------------------------------------------------------------------
 {
   :codes => [
     "Y1TG-UN1C-0REG-AL01"
   ],
 
-  :enabled => true,
+  :enabled => false,
 
   :start_date => nil,
   :end_date => nil,
