@@ -71,7 +71,7 @@
   },
 {
   :codes => [
-    "Y1TG-UN1C-OREG-ALO1"
+    "Y1TG-UN1C-0REG-AL01"
   ],
 
   :enabled => true,
