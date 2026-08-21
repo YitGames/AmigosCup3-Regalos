@@ -36,7 +36,7 @@
     ],
     :enabled => true,
     :start_date => "2026-08-21",
-    :end_date => "2026-09-30",
+    :end_date => "2026-08-20",
     :name => "Eevee especial",
     :type => :pokemon,
     :species => :EEVEE,
